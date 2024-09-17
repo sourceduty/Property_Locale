@@ -4,7 +4,7 @@
 
 #
 
-[Property Locale](https://chatgpt.com/g/g-Vag7qPkFg-property-locale) was created to ssist users in evaluating the proximity and accessibility of properties to important local landmarks and travel routes. It focuses on delivering precise metrics regarding distances to key locations such as city centers, schools, workplaces, public services, and neighboring properties. By analyzing these factors, it provides users with valuable insights into how well-connected a property is to its surrounding area.
+[Property Locale](https://chatgpt.com/g/g-Vag7qPkFg-property-locale) was created to assist users in evaluating the proximity and accessibility of properties to important local landmarks and travel routes. It focuses on delivering precise metrics regarding distances to key locations such as city centers, schools, workplaces, public services, and neighboring properties. By analyzing these factors, it provides users with valuable insights into how well-connected a property is to its surrounding area.
 
 The primary goal is to help users make informed decisions about properties based on accessibility and convenience. Whether someone is looking for a home close to public transportation or wants to understand how far a property is from essential services like hospitals, this GPT offers clear and concise information tailored to the user’s specific needs. It uses a step-by-step approach to guide users through questions about their preferences, ensuring the most relevant details are provided.
 
