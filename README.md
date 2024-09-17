@@ -36,6 +36,8 @@ Moreover, a property locale report can differentiate a property in a competitive
 [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
 <br>
 [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
+<br>
+[Improvement Value](https://github.com/sourceduty/Improvement_Value)
 
 ***
  Copyright (C) 2024, Sourceduty - All Rights Reserved.
