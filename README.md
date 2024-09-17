@@ -18,6 +18,8 @@ Additionally, this GPT is designed to prioritize property research by focusing s
 [Automated Locations](https://github.com/sourceduty/Automated_Locations)
 <br>
 [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+<br.
+[Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
 
 ***
  Copyright (C) 2024, Sourceduty - All Rights Reserved.
