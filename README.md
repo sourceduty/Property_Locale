@@ -14,43 +14,51 @@ Additionally, this GPT is designed to prioritize property research by focusing s
 ### Accessability Calculations
 
 1. WALKING TIME TO AMENITIES
+   
    Formula:
        Walking Time (minutes) = Distance (meters) / Average Walking Speed (meters/minute)
    
    Example:
+   
        Grocery Store: 800 meters
        Average Walking Speed: 1.4 meters/second (84 meters/minute)
        
        Calculation:
            800 meters / 84 meters/minute ≈ 9.5 minutes
 
-2. DRIVING TIME TO AMENITIES
+3. DRIVING TIME TO AMENITIES
+   
    Formula:
        Driving Time (minutes) = Distance (km) / Average Driving Speed (km/minute)
    
    Example:
+   
        City Center: 10 km
        Average Driving Speed: 60 km/hour (1 km/minute)
        
        Calculation:
            10 km / 1 km/minute = 10 minutes
 
-3. DISTANCE BETWEEN TWO LOCATIONS
+5. DISTANCE BETWEEN TWO LOCATIONS
+   
    Formula (Using Pythagorean Theorem for approximate distances):
        Distance = √((x2 - x1)^2 + (y2 - y1)^2)
        
    Example:
+   
        Coordinates of Property (x1, y1): (1, 3)
        Coordinates of School (x2, y2): (4, 7)
        
        Calculation:
            Distance = √((4 - 1)^2 + (7 - 3)^2) ≈ 5 km
 
-4. AREA OF PROPERTY LAND
+7. AREA OF PROPERTY LAND
+   
    Formula for rectangular property:
        Area = Length * Width
 
    Example:
+   
        Length = 50 meters
        Width = 20 meters
        
