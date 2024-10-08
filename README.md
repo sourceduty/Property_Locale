@@ -14,7 +14,7 @@ Additionally, this GPT is designed to prioritize property research by focusing s
 ### Calculations
 
 ==========================
-PROPERTY ACCESSIBILITY CALCULATIONS
+#### PROPERTY ACCESSIBILITY CALCULATIONS
 ==========================
 
 1. WALKING TIME TO AMENITIES
