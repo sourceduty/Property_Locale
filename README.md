@@ -16,33 +16,40 @@ Additionally, this GPT is designed to prioritize property research by focusing s
 1. WALKING TIME TO AMENITIES
    
    Formula:
+   
        Walking Time (minutes) = Distance (meters) / Average Walking Speed (meters/minute)
    
    Example:
    
        Grocery Store: 800 meters
+   
        Average Walking Speed: 1.4 meters/second (84 meters/minute)
        
        Calculation:
-           800 meters / 84 meters/minute ≈ 9.5 minutes
+   
+       800 meters / 84 meters/minute ≈ 9.5 minutes
 
 3. DRIVING TIME TO AMENITIES
    
    Formula:
+   
        Driving Time (minutes) = Distance (km) / Average Driving Speed (km/minute)
    
    Example:
    
        City Center: 10 km
+   
        Average Driving Speed: 60 km/hour (1 km/minute)
        
        Calculation:
-           10 km / 1 km/minute = 10 minutes
+
+       10 km / 1 km/minute = 10 minutes
 
 5. DISTANCE BETWEEN TWO LOCATIONS
    
    Formula (Using Pythagorean Theorem for approximate distances):
-       Distance = √((x2 - x1)^2 + (y2 - y1)^2)
+
+   Distance = √((x2 - x1)^2 + (y2 - y1)^2)
        
    Example:
    
@@ -50,12 +57,14 @@ Additionally, this GPT is designed to prioritize property research by focusing s
        Coordinates of School (x2, y2): (4, 7)
        
        Calculation:
-           Distance = √((4 - 1)^2 + (7 - 3)^2) ≈ 5 km
+
+       Distance = √((4 - 1)^2 + (7 - 3)^2) ≈ 5 km
 
 7. AREA OF PROPERTY LAND
    
    Formula for rectangular property:
-       Area = Length * Width
+
+   Area = Length * Width
 
    Example:
    
@@ -63,13 +72,8 @@ Additionally, this GPT is designed to prioritize property research by focusing s
        Width = 20 meters
        
        Calculation:
-           Area = 50 meters * 20 meters = 1000 square meters
-
-#### Tips
-
-- Use 1.4 m/s (84 m/min) for average walking speed.
-- Use 60 km/h (1 km/min) for average city driving speed.
-- To measure distances, use an online map or a GPS tool for accuracy.
+   
+       Area = 50 meters * 20 meters = 1000 square meters
 
 #
 ### Property Locale Report
