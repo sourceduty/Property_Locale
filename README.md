@@ -11,11 +11,7 @@ The primary goal is to help users make informed decisions about properties based
 Additionally, this GPT is designed to prioritize property research by focusing solely on proximity-related factors. It avoids unnecessary information and concentrates on delivering practical insights, making it an efficient tool for anyone conducting property research. By leveraging typical property characteristics and user input, it provides a personalized and effective evaluation of a property's local accessibility.
 
 #
-### Calculations
-
-==========================
-#### PROPERTY ACCESSIBILITY CALCULATIONS
-==========================
+### Accessability Calculations
 
 1. WALKING TIME TO AMENITIES
    Formula:
@@ -61,9 +57,7 @@ Additionally, this GPT is designed to prioritize property research by focusing s
        Calculation:
            Area = 50 meters * 20 meters = 1000 square meters
 
-==========================
-TIPS:
-==========================
+#### Tips
 
 - Use 1.4 m/s (84 m/min) for average walking speed.
 - Use 60 km/h (1 km/min) for average city driving speed.
