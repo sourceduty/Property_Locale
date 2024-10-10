@@ -148,6 +148,10 @@ Neighborhood and Community Services: Climax is a tight-knit community, so essent
 [Abandoned Locations](https://github.com/sourceduty/Abandoned_Locations)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
+<br>
+[Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
 
 ***
  Copyright (C) 2024, Sourceduty - All Rights Reserved.
